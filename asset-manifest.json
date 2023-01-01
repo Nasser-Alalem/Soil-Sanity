@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/datanalysis/static/css/main.e6c13ad2.css",
-    "main.js": "/datanalysis/static/js/main.e02f233e.js",
+    "main.js": "/datanalysis/static/js/main.79085f65.js",
     "static/js/787.bd9a28d9.chunk.js": "/datanalysis/static/js/787.bd9a28d9.chunk.js",
     "static/media/TDSvsTemp.png": "/datanalysis/static/media/TDSvsTemp.8573218400e377a20c4f.png",
     "static/media/regression.png": "/datanalysis/static/media/regression.48db08bc8fed44b3250c.png",
@@ -9,11 +9,11 @@
     "static/media/Temp.png": "/datanalysis/static/media/Temp.9218eacb8e279fcc6716.png",
     "index.html": "/datanalysis/index.html",
     "main.e6c13ad2.css.map": "/datanalysis/static/css/main.e6c13ad2.css.map",
-    "main.e02f233e.js.map": "/datanalysis/static/js/main.e02f233e.js.map",
+    "main.79085f65.js.map": "/datanalysis/static/js/main.79085f65.js.map",
     "787.bd9a28d9.chunk.js.map": "/datanalysis/static/js/787.bd9a28d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e02f233e.js"
+    "static/js/main.79085f65.js"
   ]
 }
