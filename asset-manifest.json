@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Soil-Sanity/static/css/main.e6c13ad2.css",
+    "main.js": "/Soil-Sanity/static/js/main.6d3c4567.js",
+    "static/js/787.bd9a28d9.chunk.js": "/Soil-Sanity/static/js/787.bd9a28d9.chunk.js",
+    "static/media/TDSvsTemp.png": "/Soil-Sanity/static/media/TDSvsTemp.8573218400e377a20c4f.png",
+    "static/media/regression.png": "/Soil-Sanity/static/media/regression.48db08bc8fed44b3250c.png",
+    "static/media/TDS.png": "/Soil-Sanity/static/media/TDS.63f81be5cbcc6246eb04.png",
+    "static/media/Temp.png": "/Soil-Sanity/static/media/Temp.9218eacb8e279fcc6716.png",
+    "index.html": "/Soil-Sanity/index.html",
+    "main.e6c13ad2.css.map": "/Soil-Sanity/static/css/main.e6c13ad2.css.map",
+    "main.6d3c4567.js.map": "/Soil-Sanity/static/js/main.6d3c4567.js.map",
+    "787.bd9a28d9.chunk.js.map": "/Soil-Sanity/static/js/787.bd9a28d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d3c4567.js"
+  ]
+}
